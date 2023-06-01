@@ -1,2 +1,2 @@
-# Parkinson_Deciese_detection
-PArkinson Deciese for XGBoost Clasifier
+# Parkinson_Disease_detection
+PArkinson Disease for XGBoost Clasifier
